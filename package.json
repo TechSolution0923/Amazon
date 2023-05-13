@@ -16,6 +16,6 @@
     "fs": "^0.0.1-security",
     "json2csv": "^6.0.0-alpha.2",
     "proxy-chain": "^2.3.0",
-    "puppeteer": "^19.8.5"
+    "puppeteer": "^19.11.1"
   }
 }
